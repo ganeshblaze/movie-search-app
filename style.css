@@ -1,0 +1,16 @@
+{
+ margin: 0;
+ padding: 0;
+ }
+
+
+.poster{
+  width : 50vw;
+}
+
+body,html {
+  background-size: cover;
+  background-repeat: no-repeat;
+  height:100%
+
+}
